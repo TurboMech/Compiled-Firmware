@@ -12,7 +12,7 @@ January 29th 2019
 4. increased unload motor current
 5. esteps set to 830 for 0.9 degree motor where these changes are best suited
 
-Best for Bondtech extruder w/ 0.9 degree pancake motor. 
+Best for Prusa MK3 w/ Bondtech extruder w/ 0.9 degree pancake motor. 
 
 Compiled from https://github.com/codiac2600/Prusa-Firmware-HD-MBL
 
@@ -26,6 +26,6 @@ January 29th 2019
 4. increased unload motor current
 5. esteps set to 830 for 1.8 degree motor where these changes are best suited
 
-Best for Bondtech extruder w/ 1.8 degree pancake motor.
+Best for Prusa MK3 w/ Bondtech extruder w/ 1.8 degree pancake motor.
 
 Compiled from https://github.com/codiac2600/Prusa-Firmware-HD-MBL
