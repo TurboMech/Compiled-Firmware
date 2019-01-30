@@ -14,6 +14,8 @@ January 29th 2019
 
 Best for Bondtech extruder w/ 0.9 degree pancake motor. 
 
+Compiled from https://github.com/codiac2600/Prusa-Firmware-HD-MBL
+
 # Firmware.HDMBL32.hex contains the following changes:
 
 January 29th 2019
@@ -25,3 +27,5 @@ January 29th 2019
 5. esteps set to 830 for 1.8 degree motor where these changes are best suited
 
 Best for Bondtech extruder w/ 1.8 degree pancake motor.
+
+Compiled from https://github.com/codiac2600/Prusa-Firmware-HD-MBL
